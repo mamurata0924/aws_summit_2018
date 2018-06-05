@@ -17,6 +17,6 @@
 
 ## Œ‹‰Ê
 - ‚Ü‚¸‚Í‰Â‹‰»‚µ‚½‚à‚Ì
-  - [Imgur](https://i.imgur.com/QQq71HO.png)
+  - ![Imgur](https://i.imgur.com/QQq71HO.png)
 - –Ú—§‚Â word ‚ğÁ‚µ‚Ä‰Â‹‰»‚µ‚½‚à‚Ì
-  - [Imgur](https://i.imgur.com/A67Bwvu.png)
+  - ![Imgur](https://i.imgur.com/A67Bwvu.png)
