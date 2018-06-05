@@ -1,22 +1,25 @@
-# AWS SUMMIT TOKYO 2018 ‚ÌŠT—vŠm”F
+# AWS SUMMIT TOKYO 2018 ã®æ¦‚è¦ç¢ºèª
 
-## ”wŒi
-- AWS SUMMIT TOKYO 2018 ‚ÉŽQ‰Á
-- ‚Ç‚ñ‚ÈƒZƒbƒVƒ‡ƒ“‚ª‘½‚©‚Á‚½‚Ì‚©•·‚©‚ê‚½
-- ƒeƒLƒXƒgƒ}ƒCƒjƒ“ƒO“I‚È‚±‚Æ‚ð‚â‚è‚½‚©‚Á‚½
+## èƒŒæ™¯
+- AWS SUMMIT TOKYO 2018 ã«å‚åŠ 
+- ã©ã‚“ãªã‚»ãƒƒã‚·ãƒ§ãƒ³ãŒå¤šã‹ã£ãŸã®ã‹èžã‹ã‚ŒãŸ
+- ãƒ†ã‚­ã‚¹ãƒˆãƒžã‚¤ãƒ‹ãƒ³ã‚°çš„ãªã“ã¨ã‚’ã‚„ã‚ŠãŸã‹ã£ãŸ
 
-## –Ú“I
-- AWS SUMMIT TOKYO 2018 ‚ÌƒZƒbƒVƒ‡ƒ““à—e‚ð}‚Å‰ÂŽ‹‰»‚·‚é‚±‚Æ
+## ç›®çš„
+- AWS SUMMIT TOKYO 2018 ã®ã‚»ãƒƒã‚·ãƒ§ãƒ³å†…å®¹ã‚’å›³ã§å¯è¦–åŒ–ã™ã‚‹ã“ã¨
 
-## ŠÂ‹«
+## ç’°å¢ƒ
 - Windows 10 Pro (64-bit)
 - Python 3.6.1 | Anaconda 4.4.0 (64-bit)
 
-## ‰ÂŽ‹‰»•û–@
-- jupyter notebook ‚ðŽQÆ
+## å¯è¦–åŒ–æ–¹æ³•
+- jupyter notebook ã‚’å‚ç…§
 
-## Œ‹‰Ê
-- ‚Ü‚¸‚Í‰ÂŽ‹‰»‚µ‚½‚à‚Ì
-  - ![Imgur](https://i.imgur.com/QQq71HO.png)
-- –Ú—§‚Â word ‚ðÁ‚µ‚Ä‰ÂŽ‹‰»‚µ‚½‚à‚Ì
-  - ![Imgur](https://i.imgur.com/A67Bwvu.png)
+## çµæžœ
+- ã¾ãšã¯å¯è¦–åŒ–ã—ãŸã‚‚ã®
+
+  ![Imgur](https://i.imgur.com/QQq71HO.png)
+  
+- ç›®ç«‹ã¤ word ã‚’æ¶ˆã—ã¦å¯è¦–åŒ–ã—ãŸã‚‚ã®
+  
+  ![Imgur](https://i.imgur.com/A67Bwvu.png)
